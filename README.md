@@ -1,3 +1,7 @@
+ <div style="text-align: center;">
+        <img src="https://miro.medium.com/v2/resize:fit:700/0*0O5n9x6pzlJ5qLkC.gif" alt="" style="width: 95%;">
+    </div>
+
 ## 🌐 Connect with me:
 <div align="center">
 <a href="https://github.com/slsuyel" target="_blank">
