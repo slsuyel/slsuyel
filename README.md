@@ -1,3 +1,5 @@
+
+<img src ="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-6.jpg">
 <h1 align="center">Hi 👋, I'm Suyel Haque</h1>
 <h3 align="center">A passionate junior Web developer from Dhaka Bangladesh</h3>
 <img src ="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif" style = "width:400px">
