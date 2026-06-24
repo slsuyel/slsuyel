@@ -1,6 +1,13 @@
 # 💫 About Me:
 🔭 I'm currently working on Building scalable web applications with Next.js, TypeScript, Node.js, and MongoDB, including eCommerce, SaaS, and digital service platforms.<br><br>👯 I'm looking to collaborate on Open-source projects, SaaS products, AI-powered applications, and modern web platforms built with React and Next.js.<br><br>🤝 I'm looking for help with System design, microservices architecture, DevOps, and scaling high-traffic web applications.<br><br>🌱 I'm currently learning Advanced Next.js architecture, cloud infrastructure, AI integrations, and software system design.<br><br>💬 Ask me about Next.js, React, TypeScript, Node.js, MongoDB, API integrations, authentication systems, payment gateways, SEO, and web performance optimization.<br><br>⚡ Fun fact I've built production applications ranging from government digital service platforms to eCommerce and matrimonial systems, serving real users with secure payment integrations and modern web technologies.<br>
 
+## 🌐 Connect With Me
+<p align="left"> <a href="mailto:slsuyel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://linkedin.com/in/slsuyel"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://github.com/slsuyel"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://facebook.com/slsuyel"><img src="https://cdn.simpleicons.org/facebook" width="48"/></a> <a href="https://instagram.com/slsuyel"><img src="https://cdn.simpleicons.org/instagram" width="48"/></a> </p>
+
+📧 Email: slsuyel@gmail.com
+📱 Phone: +8801722597565
+🌍 Portfolio: https://suyel.vercel.app
+📍 Location: Dhaka, Bangladesh
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/slsuyel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/slsuyel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/slsuyel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@slsuyel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/slsuyel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:slsuyel@gmail.com) 
