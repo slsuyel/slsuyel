@@ -2,7 +2,6 @@
 🔭 I'm currently working on Building scalable web applications with Next.js, TypeScript, Node.js, and MongoDB, including eCommerce, SaaS, and digital service platforms.<br><br>👯 I'm looking to collaborate on Open-source projects, SaaS products, AI-powered applications, and modern web platforms built with React and Next.js.<br><br>🤝 I'm looking for help with System design, microservices architecture, DevOps, and scaling high-traffic web applications.<br><br>🌱 I'm currently learning Advanced Next.js architecture, cloud infrastructure, AI integrations, and software system design.<br><br>💬 Ask me about Next.js, React, TypeScript, Node.js, MongoDB, API integrations, authentication systems, payment gateways, SEO, and web performance optimization.<br><br>⚡ Fun fact I've built production applications ranging from government digital service platforms to eCommerce and matrimonial systems, serving real users with secure payment integrations and modern web technologies.<br>
 
 ## 🌐 Connect With Me
-<p align="left"> <a href="mailto:slsuyel@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a> <a href="https://linkedin.com/in/slsuyel"><img src="https://skillicons.dev/icons?i=linkedin" /></a> <a href="https://github.com/slsuyel"><img src="https://skillicons.dev/icons?i=github" /></a> <a href="https://facebook.com/slsuyel"><img src="https://cdn.simpleicons.org/facebook" width="48"/></a> <a href="https://instagram.com/slsuyel"><img src="https://cdn.simpleicons.org/instagram" width="48"/></a> </p>
 
 📧 Email: slsuyel@gmail.com
 📱 Phone: +8801722597565
