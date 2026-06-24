@@ -56,6 +56,33 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+## 🚀 Featured Projects
+
+| Project                                                   | Description                                                                                                                                                                                     | Tech Stack                                                              |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| [🏛 Cashless Union Services](https://www.uniontax.gov.bd) | A large-scale digital service platform for Union Parishads in Bangladesh, enabling online certificate issuance, citizen services, and secure tax payments through a modern digital ecosystem.   | Next.js, React, TypeScript, Node.js, MongoDB, REST API, EkPay           |
+| [🛒 Shopping Cart BD](https://www.shoppingcart.bd)        | A high-performance multi-vendor eCommerce ecosystem featuring customer applications, admin management, product catalogs, order processing, payment integration, and analytics dashboards.       | Next.js, React, Redux Toolkit, Node.js, Express.js, MongoDB, JWT, bKash |
+| [❤️ USAMARRY](https://www.usamarry.com)                   | A modern matrimonial and matchmaking platform with advanced profile management, secure authentication, premium subscriptions, real-time messaging, and intelligent matching features.           | Next.js, TypeScript, MongoDB, Stripe, Socket.io, Google Auth            |
+| [🚘 Cheap My Ride](https://cheapmyride.com)               | Premium chauffeur and limousine booking platform providing airport transfers, corporate travel solutions, luxury fleet reservations, and nationwide transportation services.                    | Next.js, React, Tailwind CSS, JavaScript, Node.js                       |
+| [🛍️ Amader Bazar](https://amaderbazar.com.bd/)           | A modern full-stack eCommerce platform featuring product management, secure authentication, shopping cart functionality, order tracking, customer management, and comprehensive admin controls. | Next.js, React, TypeScript, Node.js, MongoDB, Redux Toolkit             |
+| [🚖 RPC Limo](https://rpclimo.com/)                       | A professional limousine service management platform with booking operations, vehicle management, transaction monitoring, scheduling workflows, and business administration modules.            | React, TypeScript, Tailwind CSS, JavaScript                             |
+| [🌐 Portfolio Website](https://suyel.vercel.app)          | Personal developer portfolio showcasing professional experience, featured projects, technical expertise, achievements, and modern web development capabilities.                                 | Next.js, TypeScript, Tailwind CSS                                       |
+
+```
+
+### 📈 Project Impact
+
+- 🚀 Delivered **10+ production-grade web applications**
+- 🏛 Built government digital service platforms serving real users
+- 🛒 Developed scalable eCommerce ecosystems with secure payment integrations
+- ❤️ Created modern matchmaking and matrimonial platforms
+- 💳 Integrated Stripe, bKash, and EkPay payment gateways
+- 🔐 Implemented JWT, Google, Apple, and Email authentication systems
+- ⚡ Specialized in SEO, performance optimization, and scalable architectures
+```
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=slsuyel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=slsuyel&theme=dark&hide_border=false)<br/>
